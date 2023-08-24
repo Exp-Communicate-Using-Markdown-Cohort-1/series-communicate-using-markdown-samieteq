@@ -12,6 +12,7 @@
 ```
 
 ## Task Four - Adding List
-- [X] Turn on GitHub Pages
-- [X] Outline my portfolio
-- [X] Introduce myself to the world
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Uploaded New Repository

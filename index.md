@@ -10,3 +10,8 @@ Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-git
 ```
 ./mvnw clean install
 ```
+
+## Task Four - Adding List
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
